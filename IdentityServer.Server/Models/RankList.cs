@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace IdentityServer.Server.Models
+{
+    public class RankList
+    {
+
+        public string Name;
+
+        public int TotalTime;
+
+
+
+    }
+}
